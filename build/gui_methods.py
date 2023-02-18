@@ -63,10 +63,7 @@ class GuiMethods(tkinter.Tk):
         return yes_no
 
     def open_conn(self, host, n=0):
-        """open connection to host
-            for demo version, this feature is turned off"""
-        if True:
-            return
+        """open connection to host"""
         # if ran multiple times, switches from host name to host ip
         if n > 2:
             if FILESHARE_NAME in host:
@@ -100,10 +97,7 @@ class GuiMethods(tkinter.Tk):
                     return self.open_conn(host, n)
 
     def close_conn(self, host):
-        """close connection
-            for demo version, this feature is turned off"""
-        if True:
-            return
+        """close connection"""
         try:
             win32wnet.WNetCancelConnection2(host, 0, 0)
         except (win32wnet.error, TypeError):
