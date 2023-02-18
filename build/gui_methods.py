@@ -64,7 +64,7 @@ class GuiMethods(tkinter.Tk):
 
     def open_conn(self, host, n=0):
         """open connection to host
-            for security reasons, this feature is turned off"""
+            for demo version, this feature is turned off"""
         if True:
             return
         # if ran multiple times, switches from host name to host ip
@@ -101,7 +101,7 @@ class GuiMethods(tkinter.Tk):
 
     def close_conn(self, host):
         """close connection
-            for security reasons, this feature is turned off"""
+            for demo version, this feature is turned off"""
         if True:
             return
         try:
