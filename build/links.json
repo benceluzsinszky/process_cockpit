@@ -1,0 +1,54 @@
+{
+    "Line_1": {
+        "Process_1": {
+            "DB": "db.txt",
+            "MESlink": ".\\meslink",
+            "BSlink": ".\\bslink",
+            "BulkDB": "\\Parameter",
+            "stations": [
+                "Station_1",
+				"Station_2",
+                "Station_3"
+            ]
+        },
+        "Process_2": {
+            "DB": "db.txt",
+            "MESlink": ".\\meslink",
+            "BSlink": ".\\bslink",
+            "BulkDB": "\\Parameter",
+            "stations": [
+                "Station_1"
+            ]
+        }
+    },
+    "Line_2": {
+        "Process_1": {
+            "DB": "db.txt",
+            "MESlink": ".\\meslink",
+            "BSlink": ".\\bslink",
+            "BulkDB": "\\Parameter",
+            "stations": [
+                "Station_1"
+            ]
+        },
+        "Process_2": {
+            "DB": "db.txt",
+            "MESlink": ".\\meslink",
+            "BSlink": ".\\bslink",
+            "BulkDB": "\\Parameter",
+            "stations": [
+                "Station_1",
+                "Station_2"
+            ]
+        },
+        "Process_3": {
+            "DB": "db.txt",
+            "MESlink": ".\\meslink",
+            "BSlink": ".\\bslink",
+            "BulkDB": "\\Parameter",
+            "stations": [
+                "Station_1"
+            ]
+        }
+    }
+}

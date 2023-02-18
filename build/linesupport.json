@@ -1,0 +1,72 @@
+{
+    "ECA_S2_DP": [
+        "\\\\mc00fb01.emea.bosch.com\\ECA\\Typedata\\DP\\Parameter",
+        "\\\\10.43.95.152\\machineshares\\Typedata\\dp\\Parameter",
+        "Daten_ECA-DP.mdb"
+    ],
+    "ECA_S2_PI": [
+        "\\\\mc00fb01.emea.bosch.com\\ECA\\Typedata\\EC_PI\\Parameter",
+        "\\\\10.43.95.152\\machineshares\\Typedata\\ec_pi\\Parameter",
+        "Daten_ECPI_ECAS2.mdb"
+    ],
+    "ECM2.0_DP": [
+        "\\\\mc00fb01.emea.bosch.com\\ECM2\\ECM2.0-RBHM-I-MOT\\Typedata\\DP\\Parameter",
+        "\\\\10.43.95.138\\Line_Support\\machineshares\\Typedata\\DP\\Parameter",
+        "Daten_ECM2.0-DP.mdb"
+    ],
+    "ECM2.0_LP": [
+        "\\\\mc00fb01.emea.bosch.com\\ECM2\\ECM2.0-RBHM-I-MOT\\Typedata\\LP\\Parameter",
+        "\\\\10.43.95.138\\Line_Support\\machineshares\\Typedata\\LP\\Parameter",
+        "DatenECM-FED_LP.mdb"
+    ],
+    "FED/ECM1.0_LP": [
+        "\\\\mc00fb01.emea.bosch.com\\FED_ECM\\Typedata\\LP\\Parameter",
+        "\\\\10.11.114.164\\machineshares\\Typedata\\LP\\Parameter",
+        "DatenECM-FED_LP_RBHM.mdb"
+    ],
+    "FED/ECM1.0_Prog": [
+        "\\\\mc00fb01.emea.bosch.com\\FED_ECM\\Typedata\\Prog\\Parameter",
+        "\\\\10.11.114.164\\machineshares\\Typedata\\Prog\\Parameter",
+        "DatenECM-FED-PROG.mdb"
+    ],
+    "FED2.0_LP": [
+        "\\\\mc00fb01.emea.bosch.com\\FED2\\FED2.0-RBHM-I-MOT\\Typedata\\LP\\Parameter",
+        "\\\\10.43.91.52\\machineshares\\Typedata\\LP\\Parameter",
+        "DatenECM-FED_LP.mdb"
+    ],
+    "GBB_LP_NOISE": [
+        "\\\\mc00fb01.emea.bosch.com\\GBB\\GBB-RBHM-I-MOT\\Typedata\\Parameter",
+        "\\\\10.76.59.235\\machineshares\\Typedata\\Parameter",
+        "DatenGBB_LP_PROG_NOISE.mdb"
+    ],
+    "iBooster_CT": [
+        "\\\\mc00fb01.emea.bosch.com\\iBooster_II\\Typedata\\CT\\Parameter",
+        "\\\\10.43.95.148\\machineshares\\Typedata\\CT\\Parameter",
+        "DateniBooster_RM_RBHM_II.mdb"
+    ],
+    "iBooster_LP": [
+        "\\\\mc00fb01.emea.bosch.com\\iBooster_II\\Typedata\\LP\\Parameter",
+        "\\\\10.43.95.148\\machineshares\\Typedata\\LP\\Parameter",
+        "DateniBooster_GenLP_RBHM.mdb"
+    ],
+    "PSM2_GenLP": [
+        "\\\\mc00fb01.emea.bosch.com\\PSM2\\BUEPSM2-I-MOT\\Typedata\\GenLP\\Parameter",
+        "\\\\10.43.95.149\\machineshares\\Typedata\\GenLP\\Parameter",
+        "DatenARS_BueP.mdb"
+    ],
+    "PSM2_LP": [
+        "\\\\mc00fb01.emea.bosch.com\\PSM2\\BUEPSM2-I-MOT\\Typedata\\LP\\Parameter",
+        "\\\\10.43.95.149\\machineshares\\Typedata\\LP\\Parameter",
+        "DatenPSM2_BueP.mdb"
+    ],
+    "PSM2_RM": [
+        "\\\\mc00fb01.emea.bosch.com\\PSM2\\BUEPSM2-I-MOT\\Typedata\\RM\\Parameter",
+        "\\\\10.43.95.149\\machineshares\\Typedata\\RM\\Parameter",
+        "DatenPSM2-ARS_RM_RBHM.mdb"
+    ],
+    "MINTA": [
+        "MNTA_BULK_ELERES",
+        "MINTA_LINE_support_ELERES",
+        "ADATBAZIS_NEVE"
+    ]
+}
